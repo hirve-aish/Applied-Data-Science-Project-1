@@ -1,10 +1,10 @@
 # Applied-Data-Science-Project-1
-Individual Project for Applied Data Science, Semester 2 2022 
-Capstone Project for Data Science Major, Bachelor of Science at University of Melbourne 
+## Individual Project for Applied Data Science, Semester 2 2022 
+## Capstone Project for Data Science Major, Bachelor of Science at University of Melbourne 
 
 
-Predicting Average Daily Taxi Fare Price in NYC
-Based on weather conditions, and taxi type
+######Predicting Average Daily Taxi Fare Price in NYC
+######Based on weather conditions, and taxi type
 
 Improvements in smartphone technology and internet connectivity have led to the rise of ride sharing and ride hailing apps such as Uber, Lyft, and Via. More and more people in New York City (NYC) are choosing to opt for such For Hire Vehicles (FHV) over traditional Yellow Medallion Taxis; this for a number of reasons including competitive pricing offered by FHVs, and the added convenience of being able to hail a taxi via an app as opposed to physically hailing a Yellow Taxi on the road.
 In today’s business world, companies that can offer services at the lowest market price, or ‘floor price’ attract more customers and remain competitive in the market.
