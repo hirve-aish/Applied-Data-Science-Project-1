@@ -1,5 +1,6 @@
 # Applied-Data-Science-Project-1
 Individual Project for Applied Data Science, Semester 2 2022 
+Capstone Project for Data Science Major, Bachelor of Science at University of Melbourne 
 
 
 Predicting Average Daily Taxi Fare Price in NYC
